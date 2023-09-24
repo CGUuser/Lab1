@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="TextView1">CGU CSIE</string>
+    <string name="showIntroduce_Button1">Click, Show Introduce</string>
+    <string name="Temperature_counter">Temperature Counter</string>
+    <string name="main">Main</string>
+    <string name="TemperatureConvert">華攝氏溫度轉換</string>
+    <string name="count_value">count value</string>
+    <string name="Celsius">攝氏</string>
+    <string name="Fahrenheit">華氏</string>
+    <string name="please_input">Please Input</string>
+    <string name="to_main">to main</string>
+</resources>
